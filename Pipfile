@@ -11,6 +11,9 @@ seaborn = "*"
 jupyter = "*"
 notebook = "*"
 plotly = "*"
+sklearn = "*"
+lightgbm = "*"
+xgboost = "*"
 
 [dev-packages]
 
