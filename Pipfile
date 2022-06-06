@@ -15,6 +15,7 @@ sklearn = "*"
 lightgbm = "*"
 xgboost = "*"
 catboost = "*"
+optuna = "*"
 
 [dev-packages]
 
